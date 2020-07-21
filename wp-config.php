@@ -79,8 +79,8 @@ $table_prefix = 'wp_';
  */
 define( 'WP_DEBUG', false );
 
-define( 'WP_HOME', 'http://bargainer.in' );
-define( 'WP_SITEURL', 'http://bargainer.in' );
+define( 'WP_HOME', 'http://www.bargainer.in' );
+define( 'WP_SITEURL', 'http://www.bargainer.in' );
 
 /* That's all, stop editing! Happy publishing. */
 
